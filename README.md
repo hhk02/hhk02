@@ -1,4 +1,4 @@
-<h1 align="center">Hello! 👋, I'm isaachhk02 (Isaac Ordoñez Fornós)</h1>
+<h1 align="center">Hello! 👋, I'm isaachhk02</h1>
 <h3 align="center">A curious beginner programmer with some experience</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=isaachhk02&label=Profile%20views&color=0e75b6&style=flat" alt="isaachhk02" /> </p>
