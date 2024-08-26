@@ -1,4 +1,4 @@
-<h1 align="center">Hola!👋 Soy isaachhk02</h1>
+<h1 align="center">Hola!👋 Soy Isaac (isaachhk02)</h1>
 <h2 align="center">Un joven de 22 años que programa como hobbie</h2>
 <h3 align="center">Soy un programador con algo de experiencia</h3>
 
