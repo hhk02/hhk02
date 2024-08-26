@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=isaachhk02" alt="isaachhk02" /></a> </p>
 
-🤔 En espera de nuevas ideas **
+🤔 **En espera de nuevas ideas**
 </p>
 
 <h3 align="left">Lenguajes de programación y herramientas:</h3>
