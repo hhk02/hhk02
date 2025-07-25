@@ -1,6 +1,5 @@
 <h1 align="center">Hola!👋 Soy Isaac (isaachhk02)</h1>
 <h2 align="center">Un joven de 23 años que programa como hobbie</h2>
-<h3 align="center">Soy un programador con algo de experiencia</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=isaachhk02&label=Profile%20views&color=0e75b6&style=flat" alt="isaachhk02" /> </p>
 
