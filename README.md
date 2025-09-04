@@ -4,7 +4,7 @@
 </h1>
   <h3>Proyectos Destacados</h3>
   <ul>
-    <li><a href="https://github.com/isaachhk02/plasma_autodark" target="_blank" rel="noopener noreferrer">plasma_autodark</a> - Cambia el tema Plasma a oscuro en una hora especificada. strella</li>
+    <li><a href="https://github.com/isaachhk02/plasma_autodark" target="_blank" rel="noopener noreferrer">plasma_autodark</a> - Cambia el tema Plasma a oscuro en una hora especificada.</li>
     <li><a href="https://github.com/isaachhk02/mbrextractor" target="_blank" rel="noopener noreferrer">mbrextractor</a> - Un extractor simple de MBR en C.</li>
     <li><a href="https://github.com/isaachhk02/USBEncryptor" target="_blank" rel="noopener noreferrer">USBEncryptor</a> - Encripta/Desencripta tu dispositivo USB.</li>
     <li><a href="https://github.com/isaachhk02/VenomLinuxInstaller" target="_blank" rel="noopener noreferrer">VenomLinuxInstaller</a> - Instalador para Linux escrito en Shell.</li>
