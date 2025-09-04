@@ -1,6 +1,6 @@
 <h1 align="center">
   <h1 align="center">Hola! 👋 Soy isaachhk02</h1>
-  <h2 align="center">Un joven de 23 años que programa como hobbie en mi tiempo libre.</h2>
+  <h2 align="center">Un joven de 23 años que programa como hobby en mi tiempo libre.</h2>
 </h1>
   <h3>Proyectos Destacados</h3>
   <ul>
