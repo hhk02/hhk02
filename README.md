@@ -1,28 +1,61 @@
-<h1 align="center">
-  <h1 align="center">Hola! 👋 Soy isaachhk02</h1>
-  <h2 align="center">Un joven de 23 años que programa como hobby en mi tiempo libre.</h2>
-</h1>
-  <h3>Proyectos Destacados</h3>
-  <ul>
-    <li><a href="https://github.com/isaachhk02/plasma_autodark" target="_blank" rel="noopener noreferrer">plasma_autodark</a> - Cambia el tema Plasma a oscuro en una hora especificada.</li>
-    <li><a href="https://github.com/isaachhk02/mbrextractor" target="_blank" rel="noopener noreferrer">mbrextractor</a> - Un extractor simple de MBR en C.</li>
-    <li><a href="https://github.com/isaachhk02/USBEncryptor" target="_blank" rel="noopener noreferrer">USBEncryptor</a> - Encripta/Desencripta tu dispositivo USB.</li>
-    <li><a href="https://github.com/isaachhk02/VenomLinuxInstaller" target="_blank" rel="noopener noreferrer">VenomLinuxInstaller</a> - Instalador para Linux escrito en Shell.</li>
-  </ul>
-  <h4>Lenguajes de programación</h4>
-  <p>
-    <img width="32px" height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />
-    <img width="32px" height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
-    <img width="32px" height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />
-    <img width="32px" height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" />
-  </p>
-  <h5>IDE</h5> 
-  <img width="32px" height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />
-  <h6>
-    Sistemas operativos que uso
-  </h6>
-  <p>
-      <img width="32px" height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />
-  <img width="32px" height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original.svg" />
-  </p>
-          
+# 👋 ¡Hola! Soy Isaac (@isaachhk02)
+
+### 🧑‍💻 Autodidacta y apasionado por la programación
+
+Estudio programación de manera **autodidacta** en mi tiempo libre. Me encanta aprender cosas nuevas, explorar tecnologías y desafiarme con proyectos que me permitan crecer como desarrollador.
+
+---
+
+## 💡 Principales habilidades
+
+- **C#** (mi lenguaje favorito)
+- C / C++
+- Bash & Linux scripting
+
+---
+
+## 🚀 Proyectos destacados
+
+- [**mbrextractor**](https://github.com/isaachhk02/mbrextractor)  
+  Herramienta para extraer datos, escrita en C++.
+
+- [**USBEncryptor**](https://github.com/isaachhk02/USBEncryptor)  
+  Utilidad para cifrar dispositivos USB, desarrollada en C++.
+
+- [**easyinstaller**](https://github.com/isaachhk02/easyinstaller)  
+  Instalador de paquetes para distribuciones Linux (Arch, Fedora, Debian, Ubuntu, mi mayor logro hasta ahora.
+
+---
+
+## 🏆 Logros principales
+
+- **Creador de instaladores personalizados para Linux:**  
+  Desarrollé un instalador propio para una distro Linux, y posteriormente un instalador para Gentoo que funciona desde el LiveUSB oficial (Ese instalador esta en privado, No recibio el suficiente apoyo).  
+  - Utilicé `unsquashfs` para descomprimir el archivo squashfs que se encuentra .
+  - Automatización para eliminar la configuración de LIVE. (usuario del modo LIVE)
+  - Creación de un usuario con permisos sudo en el sistema instalado.
+
+---
+
+## 🔭 Actualmente aprendiendo
+
+- Más sobre desarrollo en C#
+- Automatización avanzada en entornos Linux
+- Nuevos retos en software libre
+
+---
+
+## ✨ Sobre mí
+
+- Me gusta investigar y resolver problemas técnicos.
+- Disfruto colaborando y compartiendo conocimiento.
+- Siempre estoy buscando el próximo proyecto interesante.
+
+---
+
+> “La mejor manera de aprender es creando y experimentando.”
+
+---
+
+¿Quieres conectar?  
+¡Puedes ver más en mis [repositorios](https://github.com/isaachhk02?tab=repositories)!
