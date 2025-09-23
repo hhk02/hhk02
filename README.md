@@ -17,7 +17,7 @@ Estudio programación de manera **autodidacta** en mi tiempo libre. Me encanta a
 ## 🚀 Proyectos destacados
 
 - [**mbrextractor**](https://github.com/isaachhk02/mbrextractor)  
-  Herramienta para extraer datos, escrita en C++.
+  Herramienta para extraer el Master  Boot Record desde el dispositivo especificado, escrita en C++.
 
 - [**USBEncryptor**](https://github.com/isaachhk02/USBEncryptor)  
   Utilidad para cifrar dispositivos USB, desarrollada en C++.
