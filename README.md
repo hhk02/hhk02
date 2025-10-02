@@ -18,10 +18,10 @@ Estudio programación de manera **autodidacta** en mi tiempo libre. Me encanta a
 ## 🚀 Proyectos destacados
 
 - [**mbrextractor**](https://github.com/isaachhk02/mbrextractor)  
-  Herramienta para extraer el Master  Boot Record desde el dispositivo especificado, escrita en C++.
+  Herramienta para extraer el Master  Boot Record desde el dispositivo especificado, escrita en C.
 
 - [**USBEncryptor**](https://github.com/isaachhk02/USBEncryptor)  
-  Utilidad para cifrar dispositivos USB, desarrollada en C++.
+  Utilidad para cifrar dispositivos USB, desarrollada en C.
 
 - [**easyinstaller**](https://github.com/isaachhk02/easyinstaller)  
   Instalador de paquetes para distribuciones Linux (Arch, Fedora, Debian, Ubuntu, mi mayor logro hasta ahora.
@@ -80,10 +80,10 @@ I study programming in a **self-taught** way during my free time. I love learnin
 ## 🚀 Featured Projects
 
 - [**mbrextractor**](https://github.com/isaachhk02/mbrextractor)  
-  Tool for extracting the Master Boot Record from the specified device, written in C++.
+  Tool for extracting the Master Boot Record from the specified device, written in C.
 
 - [**USBEncryptor**](https://github.com/isaachhk02/USBEncryptor)  
-  Utility for encrypting USB devices, developed in C++.
+  Utility for encrypting USB devices, developed in C.
 
 - [**easyinstaller**](https://github.com/isaachhk02/easyinstaller)  
   Package installer for Linux distributions (Arch, Fedora, Debian, Ubuntu), my biggest achievement so far.
