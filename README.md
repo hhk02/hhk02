@@ -1,5 +1,5 @@
 # ES
-# 👋 ¡Hola! Soy Isaac (@isaachhk02)
+# 👋 ¡Hola! Soy Isaac (@hhk02)
 
 ### 🧑‍💻 Autodidacta y apasionado por la programación
 
@@ -61,7 +61,7 @@ Estudio programación de manera **autodidacta** en mi tiempo libre. Me encanta a
 ¿Quieres conectar?  
 ¡Puedes ver más en mis [repositorios](https://github.com/isaachhk02?tab=repositories)!
 # EN
-# 👋 Hello! I'm Isaac (@isaachhk02)
+# 👋 Hello! I'm Isaac (@hhk02)
 
 ### 🧑‍💻 Self-taught and passionate about programming
 
