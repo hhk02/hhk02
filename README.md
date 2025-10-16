@@ -1,5 +1,5 @@
 # ES
-# 👋 ¡Hola! Soy Isaac (@hhk02)
+# 👋 ¡Hola! Soy Isaac (@hhk02) (isaachhk02)
 
 ### 🧑‍💻 Autodidacta y apasionado por la programación
 
