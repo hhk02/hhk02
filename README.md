@@ -1,6 +1,6 @@
 # 🧑 Quien Soy?
 
-¡Hola! Soy **Isaac**, un desarrollador apasionado por la programación y la tecnología.
+¡Hola! Soy **Isaac** tengo 24 años. Soy un desarrollador apasionado por la programación y la tecnología.
 
 ## 💻 Lenguajes de Programación
 
@@ -27,7 +27,7 @@ Trabajo habitualmente con:
 
 # 🧑 About Me
 
-Hello! I'm **Isaac**, a developer passionate about programming and technology.
+Hello! I'm **Isaac** I'm 24 years old i' am a developer passionate about programming and technology.
 
 ## 💻 Programming Languages
 
