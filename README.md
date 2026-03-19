@@ -22,3 +22,30 @@ Trabajo habitualmente con:
 ---
 
 ¡Bienvenido a mi perfil! Estoy siempre aprendiendo y mejorando mis habilidades en desarrollo de software.
+
+---
+
+# 🧑 About Me
+
+Hello! I'm **Isaac**, a developer passionate about programming and technology.
+
+## 💻 Programming Languages
+
+I have **intermediate level** experience in the following languages:
+
+- **C#** - Versatile language for application development
+- **C++** - Systems programming and high-performance applications
+- **C** - Low-level programming fundamentals
+- **Python** - Scripting and rapid development
+- **Bash** - Automation and system administration
+
+## 🖥️ Operating Systems
+
+I regularly work with:
+
+- **Windows** - Development and administration
+- **GNU/Linux** - Development, administration, and scripting
+
+---
+
+Welcome to my profile! I'm always learning and improving my software development skills.
